@@ -1,0 +1,37 @@
+﻿<Page x:Class="Project_Avtomat.Main_Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_Avtomat"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Main_Menu">
+
+    <Grid>
+        <Grid Background="#1E1F26">
+            <Grid Background="#D0E1F9" Margin="0,52">
+                <StackPanel VerticalAlignment="Center">
+                    <Button Style="{DynamicResource ButtonStyle1}" BorderThickness="0" HorizontalContentAlignment="Center" Content="Открыть" FontSize="24" Width="auto" Click="Open_btn">
+                        <Button.Effect>
+                            <DropShadowEffect Direction="220" ShadowDepth="12" BlurRadius="8" Color="#737373"/>
+                        </Button.Effect>
+                    </Button>
+                    <Button Style="{DynamicResource ButtonStyle1}" Content="Конвертировать" FontSize="24" Width="auto" Click="Convert_btn">
+                        <Button.Effect>
+                            <DropShadowEffect Direction="220" ShadowDepth="12" BlurRadius="8" Color="#737373"/>
+                        </Button.Effect>
+                    </Button>
+                    <Button Style="{DynamicResource ButtonStyle1}" Content="Обновления" FontSize="24" Width="auto" Click="Update_btn" >
+                        <Button.Effect>
+                            <DropShadowEffect Direction="220" ShadowDepth="12" BlurRadius="8" Color="#737373"/>
+                        </Button.Effect>
+                    </Button>
+                </StackPanel>
+                <!-- <Image Source="klipartz.com.png" FlowDirection="RightToLeft" HorizontalAlignment="Right" Width="221" Opacity="0.4"/>
+                <Image HorizontalAlignment="Left" Width="221" Source="klipartz.com.png" Opacity="0.4"/> -->
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Page>
