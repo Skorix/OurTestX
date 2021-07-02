@@ -1,0 +1,6 @@
+C:\Users\SaddyST\source\repos\Random_Z\bin\Release\Random_Z.dll
+C:\Users\SaddyST\source\repos\Random_Z\bin\Release\Random_Z.pdb
+C:\Users\SaddyST\source\repos\Random_Z\obj\Release\Random_Z.csproj.AssemblyReference.cache
+C:\Users\SaddyST\source\repos\Random_Z\obj\Release\Random_Z.csproj.CoreCompileInputs.cache
+C:\Users\SaddyST\source\repos\Random_Z\obj\Release\Random_Z.dll
+C:\Users\SaddyST\source\repos\Random_Z\obj\Release\Random_Z.pdb

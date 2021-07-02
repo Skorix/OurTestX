@@ -1,0 +1,6 @@
+C:\Users\SaddyST\source\repos\Correct_otv\bin\Debug\Correct_otv.dll
+C:\Users\SaddyST\source\repos\Correct_otv\bin\Debug\Correct_otv.pdb
+C:\Users\SaddyST\source\repos\Correct_otv\obj\Debug\Correct_otv.csproj.CoreCompileInputs.cache
+C:\Users\SaddyST\source\repos\Correct_otv\obj\Debug\Correct_otv.dll
+C:\Users\SaddyST\source\repos\Correct_otv\obj\Debug\Correct_otv.pdb
+C:\Users\SaddyST\source\repos\Correct_otv\obj\Debug\Correct_otv.csproj.AssemblyReference.cache

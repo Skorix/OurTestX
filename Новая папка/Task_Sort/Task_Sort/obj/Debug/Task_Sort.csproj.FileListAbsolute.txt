@@ -1,0 +1,5 @@
+C:\Users\SaddyST\source\repos\Task_Sort\bin\Debug\Task_Sort.dll
+C:\Users\SaddyST\source\repos\Task_Sort\bin\Debug\Task_Sort.pdb
+C:\Users\SaddyST\source\repos\Task_Sort\obj\Debug\Task_Sort.csproj.CoreCompileInputs.cache
+C:\Users\SaddyST\source\repos\Task_Sort\obj\Debug\Task_Sort.dll
+C:\Users\SaddyST\source\repos\Task_Sort\obj\Debug\Task_Sort.pdb

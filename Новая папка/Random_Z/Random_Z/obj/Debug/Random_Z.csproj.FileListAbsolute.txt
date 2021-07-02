@@ -1,0 +1,5 @@
+C:\Users\SaddyST\source\repos\Random_Z\bin\Debug\Random_Z.dll
+C:\Users\SaddyST\source\repos\Random_Z\bin\Debug\Random_Z.pdb
+C:\Users\SaddyST\source\repos\Random_Z\obj\Debug\Random_Z.csproj.CoreCompileInputs.cache
+C:\Users\SaddyST\source\repos\Random_Z\obj\Debug\Random_Z.dll
+C:\Users\SaddyST\source\repos\Random_Z\obj\Debug\Random_Z.pdb

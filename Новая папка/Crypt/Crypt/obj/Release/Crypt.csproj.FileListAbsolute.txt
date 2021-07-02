@@ -1,0 +1,6 @@
+C:\Users\SaddyST\source\repos\Crypt\bin\Release\Crypt.dll
+C:\Users\SaddyST\source\repos\Crypt\bin\Release\Crypt.pdb
+C:\Users\SaddyST\source\repos\Crypt\obj\Release\Crypt.csproj.AssemblyReference.cache
+C:\Users\SaddyST\source\repos\Crypt\obj\Release\Crypt.csproj.CoreCompileInputs.cache
+C:\Users\SaddyST\source\repos\Crypt\obj\Release\Crypt.dll
+C:\Users\SaddyST\source\repos\Crypt\obj\Release\Crypt.pdb
