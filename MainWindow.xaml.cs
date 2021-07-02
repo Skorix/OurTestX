@@ -21,9 +21,12 @@ namespace Project_Avtomat
     public partial class MainWindow : Window
     {
         string vv = "";
+        Window targetWindow;
+
         public MainWindow()
         {
             InitializeComponent();
+            this.targetWindow = targetWindow;
         }
 
         private void Window_KeyUp(object sender, KeyEventArgs e)

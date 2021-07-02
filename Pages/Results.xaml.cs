@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace Project_Avtomat.Pages
 {
@@ -24,7 +26,7 @@ namespace Project_Avtomat.Pages
         {
             InitializeComponent();
             int ocenka;
-            ocenka = ((Bank.ball / Bank.task_count) * 100);
+            ocenka = ((Bank.ball *100) / Bank.task_count);
             if (ocenka <= 70) { Score.Text += " " + 2; }
             if (ocenka >= 71 & ocenka <= 80) { Score.Text += " " + 3; }
             if (ocenka >= 81 & ocenka <= 90) { Score.Text += " " + 4; }
@@ -36,7 +38,8 @@ namespace Project_Avtomat.Pages
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Main_Menu());
+            System.Windows.Forms.Application.Restart();
+            Process.GetCurrentProcess().Kill();
         }
     }
 }

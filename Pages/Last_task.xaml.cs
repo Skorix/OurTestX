@@ -67,11 +67,12 @@ namespace Project_Avtomat.Pages
             {
                 foreach (string a in Bank.otveti[j])
                 {
-                    for (int i = 0; i < Main_Menu.N_zadaniya[i].Length; i++)
+                    for (int i = 0; i < Main_Menu.N_zadaniya[j].Length; i++)
                     {
                         if (a == (Bank.cor_otv[j][Main_Menu.N_zadaniya[j][i]]))
                         {
                             Bank.ball++;
+                            break;
                         }
                     }
                 }
